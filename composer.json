@@ -1,7 +1,7 @@
 {
     "name": "gruposinternet/rds",
     "homepage": "https://github.com/GruposInternet/rds",
-    "license": "Grupos",
+    "license": "GPL-2.0",
     "type": "library",
     "description": "Remote Debug System",
     "require": {
