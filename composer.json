@@ -1,0 +1,17 @@
+{
+    "name": "gruposinternet/rds",
+    "homepage": "https://github.com/GruposInternet/rds",
+    "license": "Grupos",
+    "type": "library",
+    "description": "Remote Debug System",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name":  "Grupos Internet Ltda.",
+            "email": "dev@gruposinternet.com.br"
+        }
+    ]
+ 
+}
